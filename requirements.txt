@@ -6,4 +6,4 @@ langchain-community
 python-dotenv
 pydantic
 supabase
-duckduckgo-search
+ddgs
