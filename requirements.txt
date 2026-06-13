@@ -4,3 +4,5 @@ langchain-core
 langchain-groq
 python-dotenv
 pydantic
+supabase
+duckduckgo-search
